@@ -14,7 +14,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/Louce/web-client-development">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="workoutaja/images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Workoutaja Website</h3>
@@ -168,5 +168,5 @@ Project Link: [https://github.com/Louce/web-client-development](https://github.c
 [license-url]:https://github.com/Louce/web-client-development/blob/main/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/dendyrivaldi/
-[product-screenshot]: images/screenshot.png
+[product-screenshot]: workoutaja/images/screenshot.png
 
