@@ -67,7 +67,7 @@
     <img src="workoutaja/images/demo-preview.gif" alt="Click to watch demo video" width="800">
   </a>
   <p>
-    <em>Click the image above to watch the demo video</em><br>
+    <em>Click the image above to watch the demo video(paralax background effect only show when you compile it yourself)</em><br>
     <a href="workoutaja/Demo/DEMO.mp4">Direct link to demo video</a>
   </p>
 </div>
