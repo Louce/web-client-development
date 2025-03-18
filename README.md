@@ -63,12 +63,13 @@
 ## About The Project
 
 <div align="center">
-  <a href="https://example.com">
-    <video width="800" controls autoplay muted loop>
-      <source src="workoutaja/images/demo.mp4" type="video/mp4">
-      Your browser does not support the video tag.
-    </video>
+  <a href="workoutaja/images/DEMO.mp4">
+    <img src="workoutaja/images/demo-preview.gif" alt="Click to watch demo video" width="800">
   </a>
+  <p>
+    <em>Click the image above to watch the demo video</em><br>
+    <a href="workoutaja/images/DEMO.mp4">Direct link to demo video</a>
+  </p>
 </div>
 
 Workoutaja is a modern, responsive fitness landing page designed to showcase exclusive workout services. The website features elegant animations, interactive elements, and a clean, professional design.
@@ -175,5 +176,5 @@ Project Link: [https://github.com/Louce/web-client-development](https://github.c
 [license-url]:https://github.com/Louce/web-client-development/blob/main/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/dendyrivaldi/
-[product-screenshot]: workoutaja/images/demo.mp4
+[product-screenshot]: workoutaja/images/DEMO.mp4
 
