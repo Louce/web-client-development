@@ -62,7 +62,11 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+<div align="center">
+  <a href="https://example.com">
+    <img src="workoutaja/images/screenshot.png" alt="Workoutaja Website Screenshot" width="800">
+  </a>
+</div>
 
 Workoutaja is a modern, responsive fitness landing page designed to showcase exclusive workout services. The website features elegant animations, interactive elements, and a clean, professional design.
 
