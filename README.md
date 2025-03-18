@@ -25,7 +25,7 @@
     <a href="https://github.com/Louce/web-client-development"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://workoutaja-demo.netlify.app/">View Demo</a>
+    <a href="https://github.com/Louce/web-client-development">View Demo</a>
     &middot;
     <a href="https://github.com/Louce/web-client-development/issues/new?template=bug-report---.md&labels=bug">Report Issues</a>
   </p>
@@ -64,7 +64,10 @@
 
 <div align="center">
   <a href="https://example.com">
-    <img src="workoutaja/images/screenshot.png" alt="Workoutaja Website Screenshot" width="800">
+    <video width="800" controls autoplay muted loop>
+      <source src="workoutaja/images/demo.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
   </a>
 </div>
 
@@ -80,19 +83,6 @@ Workoutaja is a modern, responsive fitness landing page designed to showcase exc
 
 ### Found a Bug?
 If you find any issues with this project, please report them using our [Bug Report Template](https://github.com/Louce/web-client-development/issues/new?template=bug-report---.md&labels=bug).
-
-## Live Preview
-
-Experience the Workoutaja website in action! Visit our live demo to see all the animations, interactive elements, and responsive design features:
-
-<div align="center">
-  <a href="https://workoutaja-demo.netlify.app/" target="_blank">
-    <img src="workoutaja/images/screenshot.png" alt="Workoutaja Live Preview" width="600">
-    <br>
-    <strong>🔗 https://workoutaja-demo.netlify.app/</strong>
-  </a>
-  <p>Click the image or link above to view the live demo</p>
-</div>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -185,5 +175,5 @@ Project Link: [https://github.com/Louce/web-client-development](https://github.c
 [license-url]:https://github.com/Louce/web-client-development/blob/main/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/dendyrivaldi/
-[product-screenshot]: workoutaja/images/screenshot.png
+[product-screenshot]: workoutaja/images/demo.mp4
 
