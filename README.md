@@ -63,7 +63,7 @@
 ## About The Project
 
 <div align="center">
-  <a href="workoutaja/images/DEMO.mp4">
+  <a href="workoutaja/Demo/DEMO.mp4">
     <img src="workoutaja/images/demo-preview.gif" alt="Click to watch demo video" width="800">
   </a>
   <p>
