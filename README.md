@@ -68,7 +68,7 @@
   </a>
   <p>
     <em>Click the image above to watch the demo video</em><br>
-    <a href="workoutaja/images/DEMO.mp4">Direct link to demo video</a>
+    <a href="workoutaja/Demo/DEMO.mp4">Direct link to demo video</a>
   </p>
 </div>
 
@@ -176,5 +176,5 @@ Project Link: [https://github.com/Louce/web-client-development](https://github.c
 [license-url]:https://github.com/Louce/web-client-development/blob/main/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/dendyrivaldi/
-[product-screenshot]: workoutaja/images/DEMO.mp4
+[product-screenshot]: workoutaja/Demo/DEMO.mp4
 
