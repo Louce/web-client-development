@@ -25,7 +25,7 @@
     <a href="https://github.com/Louce/web-client-development"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/Louce/web-client-development">View Demo</a>
+    <a href="https://workoutaja-demo.netlify.app/">View Demo</a>
     &middot;
     <a href="https://github.com/Louce/web-client-development/issues/new?template=bug-report---.md&labels=bug">Report Issues</a>
   </p>
@@ -80,6 +80,19 @@ Workoutaja is a modern, responsive fitness landing page designed to showcase exc
 
 ### Found a Bug?
 If you find any issues with this project, please report them using our [Bug Report Template](https://github.com/Louce/web-client-development/issues/new?template=bug-report---.md&labels=bug).
+
+## Live Preview
+
+Experience the Workoutaja website in action! Visit our live demo to see all the animations, interactive elements, and responsive design features:
+
+<div align="center">
+  <a href="https://workoutaja-demo.netlify.app/" target="_blank">
+    <img src="workoutaja/images/screenshot.png" alt="Workoutaja Live Preview" width="600">
+    <br>
+    <strong>🔗 https://workoutaja-demo.netlify.app/</strong>
+  </a>
+  <p>Click the image or link above to view the live demo</p>
+</div>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
