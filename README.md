@@ -27,7 +27,7 @@
     <br />
     <a href="https://github.com/Louce/web-client-development">View Demo</a>
     &middot;
-    <a href="https://github.com/Louce/web-client-development/issues/new?assignees=&labels=bug&template=bug-report.md&title=Bug%3A+">Report Issues</a>
+    <a href="https://github.com/Louce/web-client-development/issues/new?assignees=&labels=bug&title=Bug%3A+">Report Issues</a>
   </p>
 </div>
 
@@ -83,7 +83,13 @@ Workoutaja is a modern, responsive fitness landing page designed to showcase exc
 * SVG Graphics
 
 ### Found a Bug?
-If you find any issues with this project, please report them using our [Bug Report Template](https://github.com/Louce/web-client-development/issues/new?assignees=&labels=bug&template=bug-report.md&title=Bug%3A+).
+If you find any issues with this project, please report them using our [Bug Report Form](https://github.com/Louce/web-client-development/issues/new?assignees=&labels=bug&title=Bug%3A+). Please include the following information:
+- Description of the issue
+- Steps to reproduce
+- Expected behavior
+- Actual behavior
+- Screenshots (if applicable)
+- Environment details (browser, OS)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
